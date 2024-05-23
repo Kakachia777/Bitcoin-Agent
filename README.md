@@ -1,4 +1,4 @@
-# Q&A Pipeline 🤼
+# Langchain and CrewAI Pipeline 🤼
 
 <p align="center">
   <img width="976" alt="crewai" src="https://github.com/benitomartin/benitomartin.github.io/assets/116911431/a1fe4ed5-1e04-4a02-94ee-8514cb9bfd40">
